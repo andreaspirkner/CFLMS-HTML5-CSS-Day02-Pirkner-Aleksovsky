@@ -1,0 +1,10 @@
+article{
+	margin: 0 30px;
+	width: 60%;
+	float: left;
+}
+aside {
+	display: inline;
+	float: right;
+	margin-right: 50px;
+}
